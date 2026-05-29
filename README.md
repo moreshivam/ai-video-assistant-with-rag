@@ -19,6 +19,8 @@ An end-to-end AI system that takes any YouTube video or local video file, proces
 
 ## 🏗️ Architecture
 
+![Architecture Diagram](assets/architecture.png)
+
 ```
 YouTube URL / Local File
         ↓
