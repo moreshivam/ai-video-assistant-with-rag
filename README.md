@@ -176,3 +176,19 @@ This significantly improves retrieval accuracy over basic similarity search.
 - `transcript.txt` and `chroma_db/` are saved locally to avoid re-processing on subsequent runs
 - Works with English and Hindi/Hinglish videos
 - Tested on Python 3.10+
+
+---
+
+## 👤 Author
+
+**Shivam More**
+- GitHub: [@moreshivam](https://github.com/moreshivam)
+- Email: moreshivam20@gmail.com
+
+---
+
+## 📄 License
+
+MIT License — Copyright (c) 2026 Shivam More
+
+See [LICENSE](LICENSE) for full details.
