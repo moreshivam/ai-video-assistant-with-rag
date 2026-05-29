@@ -1,0 +1,35 @@
+# Environment
+.env
+
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Audio & Video files
+*.mp4
+*.mp3
+*.wav
+*.m4a
+*.webm
+
+# Vector Store
+faiss_index/
+chroma_db/
+
+# Streamlit
+# .streamlit/  ← keep config.toml in repo
+
+# Generated output files
+transcript.txt
+summary.txt
+results.txt
+downloads/
+
+# OS
+.DS_Store
+Thumbs.db
